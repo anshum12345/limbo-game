@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="app-root">
       <header className="header">
-        <h1>Limbo — Candidate Assessment</h1>
+        <h1>Limbo Game - Assignment</h1>
         <p className="sub">Frontend-only simulation with smooth counter animation</p>
       </header>
       <main>
