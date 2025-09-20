@@ -12,7 +12,7 @@ function App() {
       <main>
         <LimboGame />
       </main>
-      <footer className="footer">Built By Anshum Dwivedi</footer>first
+      <footer className="footer">Built By Anshum Dwivedi</footer>
     </div>
   );
 }
